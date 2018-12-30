@@ -1,0 +1,15 @@
+Detalii privind Tema1
+---------------------
+
+A. Implementarea a durat 20 de ore.
+
+B. Algoritmul se bazeaza pe urmatorii pasi:
+1. citirea fiecarui sir de caractere pana la END si salvarea sirurilor in fisierul iesire.txt.
+2. stabilirea tipului fiecarui sir de caractere: numar, caracter singular si cuvant.
+3. numararea sirurilor de caractere de fiecare tip, exceptand ultimul numar si END.
+4. Codificare conform algoritm:
+   -codificarea cuvintelor in ambele cazuri(cand contin sau nu cifre);
+   -codificare numerelor in ambele cazuri(pozitive sau negative);
+   -codificarea caracterelor singulare(calculul caracterului care apare de cele mai multe ori,
+    respectiv de cele mai putine ori in sirul rezultat pana la citirea caracterului curent);
+   -afisarea sirului final codificat.
